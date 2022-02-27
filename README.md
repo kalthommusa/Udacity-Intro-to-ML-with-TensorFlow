@@ -1,0 +1,1 @@
+## In this course, I have learned the fundamental and most popular algorithms of supervised machine learning through real-world applications with python scikit learn. Besides the most recent skills and techniques required to train, test and evaluate machine learning models.
